@@ -44,12 +44,5 @@ Run the Jupyter notebooks within the repository to reproduce the analysis.
 - No significant relationship between theft rates and housing prices.
 - Post-COVID data shows a decrease in theft but no significant change in battery rates.
 
-## Contributors
-- Raj Patel
-- Ayush Jamindar
-- Amrita Rajesh
-- Saloni Mhatre
-- Lakshmi Krishna
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
